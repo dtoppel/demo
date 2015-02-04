@@ -5,7 +5,7 @@
 </h1>
 
 <p>
-  by <%= @story.author %> at <%= @story.created_at %>
+  by <%= @story.author %> at <%= @story/created_at %>
 </p>
 
 <div>
